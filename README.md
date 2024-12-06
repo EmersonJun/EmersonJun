@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Emerson/Emerson/output/snake.svg" alt="Snake animation" />
 
 ###
