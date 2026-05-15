@@ -29,11 +29,12 @@
 ## Principais projetos
 
 <p align="center">
-  <a href="https://github.com/EmersonJun/Verdade-ou-Desafio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-1&theme=tokyonight" />
-  </a>
   <a href="https://github.com/EmersonJun/HelpDesk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-2&theme=tokyonight" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonJun&repo=HelpDesk&theme=tokyonight&cache_seconds=1800"/>
+  </a>
+
+  <a href="https://github.com/EmersonJun/Verdade-ou-Desafio-App">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonJun&repo=Verdade-ou-Desafio-App&theme=tokyonight&cache_seconds=1800"/>
   </a>
 </p>
 
@@ -43,8 +44,12 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonJun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonJun&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EmersonJun&theme=tokyonight"/>
 </p>
 
 ---
