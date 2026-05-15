@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/EmersonJun"><img src="https://img.shields.io/badge/GitHub-SEU%20USU%C3%81RIO-181717?style=for-the-badge&logo=github"></a>
   <a href="mailto:emersonnjunior2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/EmersonJun"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emerson-jun"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Emerson Junior</strong> 👋</h1>
@@ -56,7 +56,7 @@
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/EmersonJun"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emerson-jun"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:emersonnjunior2006@gmail.com"><img src="https://img.shields.io/badge/Email-Mandar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5541987283543"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
