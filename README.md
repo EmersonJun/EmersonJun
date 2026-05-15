@@ -1,8 +1,8 @@
-# <p align="center">![Banner](https://placehold.co/1200x400/0f172a/ffffff?text=SEU+BANNER+AQUI)</p>
+# <p align="center">![Banner](https://github.com/EmersonJun/EmersonJun/blob/main/BannerEJ.jpeg)</p>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-SEU%20USU%C3%81RIO-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:SEUEMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/EmersonJun"><img src="https://img.shields.io/badge/GitHub-SEU%20USU%C3%81RIO-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:emersonnjunior2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/SEU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
