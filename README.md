@@ -11,15 +11,17 @@
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,java,php,mysql,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=kotlin,php,java,js,react,python,typescript&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=22c55e">
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=22c55e">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=22c55e">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=22c55e">
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22c55e">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22c55e">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=22c55e">
 </p>
 
 ---
@@ -46,18 +48,3 @@
 </p>
 
 ---
-
-
-## Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/emerson-jun"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:emersonnjunior2006@gmail.com"><img src="https://img.shields.io/badge/Email-Mandar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5541987283543"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Construindo soluções com foco em impacto, clareza e evolução contínua.”</i>
-</p>
