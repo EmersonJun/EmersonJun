@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou <strong>Emerson Junior</strong> 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor(a) • Foco em qualidade • Soluções bem estruturadas</strong>
+  <strong>Desenvolvedor • Foco em qualidade • Soluções bem estruturadas</strong>
 </p>
 
 ---
