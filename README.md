@@ -1,4 +1,6 @@
-# <p align="center">![Banner](https://github.com/EmersonJun/EmersonJun/blob/main/BannerEJ.jpeg)</p>
+<p align="center">
+  <img src="https://github.com/EmersonJun/EmersonJun/blob/main/BannerEJ.jpeg" alt="Banner Emerson Junior"/>
+</p>
 
 <h1 align="center">Olá, eu sou <strong>Emerson Junior</strong> 👋</h1>
 
@@ -24,11 +26,11 @@
 
 <p align="center">
   <a href="https://github.com/EmersonJun/HelpDesk">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EmersonJun&repo=HelpDesk&theme=tokyonight&border_color=22c55e&bg_color=0d1117"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonJun&repo=HelpDesk&theme=tokyonight&border_color=22c55e&bg_color=0d1117" />
   </a>
 
   <a href="https://github.com/EmersonJun/Verdade-ou-Desafio-App">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EmersonJun&repo=Verdade-ou-Desafio-App&theme=tokyonight&border_color=22c55e&bg_color=0d1117"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonJun&repo=Verdade-ou-Desafio-App&theme=tokyonight&border_color=22c55e&bg_color=0d1117" />
   </a>
 </p>
 
@@ -37,12 +39,11 @@
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmersonJun&show_icons=true&theme=tokyonight&border_color=22c55e&bg_color=0d1117&icon_color=22c55e"/>
+  <img width="48%" height="200em" src="https://github-readme-stats.vercel.app/api?username=EmersonJun&show_icons=true&theme=tokyonight&border_color=22c55e&bg_color=0d1117&icon_color=22c55e" />
 
-  <img width="48%" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmersonJun&layout=compact&theme=tokyonight&border_color=22c55e&bg_color=0d1117"/>
+  <img width="48%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonJun&layout=compact&theme=tokyonight&border_color=22c55e&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=EmersonJun&theme=tokyonight&border=22c55e&background=0d1117"/>
+  <img width="50%" src="https://streak-stats.demolab.com?user=EmersonJun&theme=tokyonight&border=22c55e&background=0d1117" />
 </p>
-
